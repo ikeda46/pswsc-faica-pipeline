@@ -13,6 +13,9 @@ dependencies = [
     "scipy",
     "pandas",
     "xarray",
+    "scikit-learn",
+    "matplotlib",
+    "tqdm",
 ]
 
 [tool.setuptools.packages.find]
