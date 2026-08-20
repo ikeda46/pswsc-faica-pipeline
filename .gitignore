@@ -4,3 +4,7 @@ __pycache__/
 build/
 dist/
 .venv/
+
+# generated analysis outputs -- not yet publishable
+analysis/logs/
+analysis/*.log
